@@ -95,3 +95,5 @@
 |15|626_Exchange Seats|[✏️](./Leetcode/15_626_ExchangeSeats.sql)|`medium`|
 |16|1158_Market Analysis I|[✏️](./Leetcode/16_1158_MarketAnalysisI.sql)|`medium`|
 |17|1393_Capital Gain Loss|[✏️](./Leetcode/17_1393_CapitalGainLoss.sql)|`medium`|
+|18|607_Sales Person|[✏️](./Leetcode/18_607_SalesPerson.sql)|`easy`|
+|19|627_Swap Salary|[✏️](./Leetcode/19_627_SwapSalary.sql)|`easy`|
