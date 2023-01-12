@@ -97,3 +97,5 @@
 |17|1393_Capital Gain Loss|[✏️](./Leetcode/17_1393_CapitalGainLoss.sql)|`medium`|
 |18|607_Sales Person|[✏️](./Leetcode/18_607_SalesPerson.sql)|`easy`|
 |19|627_Swap Salary|[✏️](./Leetcode/19_627_SwapSalary.sql)|`easy`|
+|20|1084_Sales Analysis III|[✏️](./Leetcode/20_1084_SalesAnalysisIII.sql)|`easy`|
+|21|1050_Actor sand Directors Who Cooperated At Least Three Times|[✏️](./Leetcode/21_1050_ActorsandDirectorsWhoCooperatedAtLeastThreeTimes.sql)|`easy`|
